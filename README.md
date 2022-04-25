@@ -57,7 +57,7 @@ This project is a implementation of the necessary functionality for the project 
 
 - :heavy_check_mark: City Data access (Repository);
 - :heavy_check_mark: City Service;
-- :construction: City REST controller;
+- :heavy_check_mark: City REST controller;
 
 :heavy_check_mark: Event controller class integration tests with:
 
