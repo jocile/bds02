@@ -53,13 +53,13 @@ This project is a implementation of the necessary functionality for the project 
 
 ## :sparkles: Features
 
-:heavy_check_mark: City controller class integration tests with:
+:heavy_check_mark: City controller class integration tests with: findall, insert and delete features from the database.
 
 - :heavy_check_mark: City Data access (Repository);
 - :heavy_check_mark: City Service;
 - :heavy_check_mark: City REST controller;
 
-:heavy_check_mark: Event controller class integration tests with:
+:heavy_check_mark: Event controller class integration tests with: update when city exists and update when city does not exists.
 
 - :heavy_check_mark: Event Data access (Repository);
 - :construction: Event Service;
