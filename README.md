@@ -5,7 +5,7 @@
 
 </div>
 
-<h1 align="center">Bds02</h1>
+<h1 align="center">Bds02 TDD - Test Driven Development</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/jocile/bds02?color=56BEB8">
@@ -45,25 +45,25 @@
 
 ## :dart: About
 
-Implementation of the necessary functionality for the project tests to pass the java class integration tests.
+This project is a task from the spring react bootcamp of the [Devsuperior course](https://github.com/devsuperior).
 
-[Collection do Postman](https://www.getpostman.com/collections/c347ea3428d6b199b391)
+This project is a implementation of the necessary functionality for the project tests to pass the java class integration tests.
 
 <img src="Diagram.png" alt="Bds02 diagram" />
 
 ## :sparkles: Features
 
-:heavy_check_mark: Event controller class integration tests with:\
+:heavy_check_mark: Event controller class integration tests with:
 
-- :heavy_check_mark: Event REST controller;\
-- :heavy_check_mark: Event Service;\
-- :heavy_check_mark: Event Data access (Repository);\
+- :heavy_check_mark: Event REST controller;
+- :construction: Event Service;
+- :construction: Event Data access (Repository);
 
-:heavy_check_mark: City controller class integration tests with:\
+:heavy_check_mark: City controller class integration tests with:
 
-- :heavy_check_mark: City REST controller;\
-- :heavy_check_mark: City Service;\
-- :heavy_check_mark: City Data access (Repository);
+- :construction: City REST controller;
+- :construction: City Service;
+- :construction: City Data access (Repository);
 
 ## :rocket: Technologies
 
@@ -77,23 +77,22 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements
 
-Before starting :checkered_flag:, you need to have [Java JDK11](https://www.oracle.com/java/technologies/downloads/#java11), [Git](https://git-scm.com) and [Maven](https://maven.apache.org/download.cgi) installed.
+Before starting :checkered_flag:, you need to have [Java JDK11](https://www.oracle.com/java/technologies/downloads/#java11), [Git](https://git-scm.com), [Maven](https://maven.apache.org/download.cgi) and [Postman](https://www.postman.com/) installed.
 
 ## :checkered_flag: Starting
 
 ```bash
 # Clone this project
-$ git clone https://github.com/jocile/bds02
+$ git clone https://github.com/devsuperior/bds02
 
 # Access
 $ cd bds02
 
-# Install dependencies
-$ yarn
-
 Import encoding into an IDE like vscode or eclipse with test support.
 
 ```
+
+Import the endpoint tests: [Postman Collection](https://www.getpostman.com/collections/c347ea3428d6b199b391)
 
 ## :memo: License
 
