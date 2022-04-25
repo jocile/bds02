@@ -55,15 +55,15 @@ This project is a implementation of the necessary functionality for the project 
 
 :heavy_check_mark: Event controller class integration tests with:
 
-- :heavy_check_mark: Event REST controller;
+- :heavy_check_mark: Event Data access (Repository);
 - :construction: Event Service;
-- :construction: Event Data access (Repository);
+- :construction: Event REST controller;
 
 :heavy_check_mark: City controller class integration tests with:
 
+- :heavy_check_mark: City Data access (Repository);
 - :construction: City REST controller;
 - :construction: City Service;
-- :construction: City Data access (Repository);
 
 ## :rocket: Technologies
 
