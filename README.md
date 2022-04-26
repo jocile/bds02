@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
- <!-- <img src="./.github/app.gif" alt="Bds02" />
- -->
-  &#xa0;
+<img src="bds02.gif" alt="Bds02" />
+
+&#xa0;
 
 </div>
 
@@ -62,8 +62,8 @@ This project is a implementation of the necessary functionality for the project 
 :heavy_check_mark: Event controller class integration tests with: update when city exists and update when city does not exists.
 
 - :heavy_check_mark: Event Data access (Repository);
-- :construction: Event Service;
-- :construction: Event REST controller;
+- :heavy_check_mark: Event Service;
+- :heavy_check_mark: Event REST controller;
 
 ## :rocket: Technologies
 
